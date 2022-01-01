@@ -1,2 +1,2 @@
 # Repositório do Desafio DIO
-Desafio de Projeto DIO
+Repositório criado para o Desafio Git/GitHub do Bootcamp da Inter na DIO
